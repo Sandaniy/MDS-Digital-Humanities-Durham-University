@@ -14,6 +14,13 @@ DHPT_Final Essay.pdf and DHPT Final Essay_Topic Modelling_Notebook.ipynb
 ###### Mark received: 85
 
 ### Overall Module Marks
+Introduction to Computer Science for Data Science	: 86 
+Introduction to Mathematics for Data Science		: 60
+Introduction to Statistics for Data Science		: 90
+Programming for Data Science				: 85
+Machine Learning					: 82
+Text Mining and Language Analytics			: 70
+Digital Humanities: Theory and Practice			: 85
 	
 	
 	
