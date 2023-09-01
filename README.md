@@ -15,23 +15,14 @@ DHPT_Final Essay.pdf and DHPT Final Essay_Topic Modelling_Notebook.ipynb
 
 ### Overall Module Marks
 
-| First Header  | Second Header |
+| Module	  | Mark |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-###### Introduction to Computer Science for Data Science	: 86 
-###### Introduction to Mathematics for Data Science		: 60
-###### Introduction to Statistics for Data Science		: 90
-###### Programming for Data Science				: 85
-###### Machine Learning						: 82
-###### Text Mining and Language Analytics			: 70
-###### Digital Humanities: Theory and Practice			: 85
-	
-	
-	
-	
-	
-	
-	
-	
+| Introduction to Computer Science for Data Science	| 86  |
+| Introduction to Mathematics for Data Science		| 60  |
+| Introduction to Statistics for Data Science		| 90  |
+| Programming for Data Science				| 85  |
+| Machine Learning					| 82  |
+| Text Mining and Language Analytics			| 70  |
+| Digital Humanities: Theory and Practice		| 85  |
+| Critical Perspectives in Data Science			| N/A  |
+| Final Data Science Project				| N/A  |
