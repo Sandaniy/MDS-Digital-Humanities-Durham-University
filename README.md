@@ -24,5 +24,5 @@ DHPT_Final Essay.pdf and DHPT Final Essay_Topic Modelling_Notebook.ipynb
 | Machine Learning					| 82  |
 | Text Mining and Language Analytics			| 70  |
 | Digital Humanities: Theory and Practice		| 85  |
-| Critical Perspectives in Data Science			| N/A  |
+| Critical Perspectives in Data Science			| 72  |
 | Final Data Science Project				| N/A  |
